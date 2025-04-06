@@ -50,7 +50,7 @@ Or simply double-click `index.html` to open in your browser.
 ### 👨‍💻 Developed by
 
 **Akshay Darekar**  
-Frontend Developer | JavaScript Enthusiast | SDE Aspirant in Japan 🇯🇵  
+Frontend Developer | JavaScript Enthusiast | SDE Aspirant   
 📫 [GitHub Profile](https://github.com/akshaydarekar5252)
 
 ---
@@ -67,4 +67,3 @@ Suggestions? Feel free to open an issue or fork the repo!
 - Add audio player functionality 🎶  
 - Create multiple pages (Home, Library, Search)  
 - Add dark/light theme toggle 🌗  
-- Japanese translation 🇯🇵
